@@ -19,3 +19,5 @@ db.on("error", err => console.error("error connecting to db:" + err));
 db.once("open", () => {
   console.info("connected to mongodb");
 });
+
+module.exports = db;
