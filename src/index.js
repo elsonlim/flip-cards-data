@@ -12,9 +12,11 @@ async function closeDb() {
 
 async function updateDb() {
   const data = await getDataFromCsv(csvFilePath, japStrategy);
-  console.log(data);
+  console.log("deleting data");
   await Flipcard.deleteMany({});
+  console.log(`adding ${data.length} number of data`);
   await Flipcard.collection.insertMany(data);
+  console.log("done");
 }
 
 updateDb().then(async () => {
