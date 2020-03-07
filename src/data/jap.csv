@@ -74,17 +74,159 @@ index,tags,english,text,reading,furigana
 73,"N4,い形",oh,あ（っ）,,
 74,"N5,い形","hot (for things), hot (for weather/place), thick",熱い／暑い／厚い,あつい,"熱:あ,暑:あ,厚:あ"
 75,"N3,動詞","treat, handle",扱う,あつかう,扱:あつか
-76,,,,,
-77,,,,,
-78,,,,,
-79,,,,,
-80,,,,,
-81,,,,,
-82,,,,,
-83,,,,,
-84,,,,,
-85,,,,,
-86,,,,,
-87,,,,,
-88,,,,,
-89,,,,,
+76,"N3,副,句","in a flash, before one knows it, in a twinkling",あっという間に,あっというまに,間:ま
+77,"N4,動詞","come together/collected, gather",集まる,あつまる,集:あつ
+78,"N4,動詞","collect, gather",集める,あつめる,集:あつ
+79,"N3,名詞","addressee, address",宛名,あてな,"宛:あて,名:な"
+80,"N5,名詞","after, later",後,あと,後:あと
+81,"N4,副詞,名詞","the rest, later, after, ~more",後,あと,後:あと
+82,"N3,名詞",advice,アドバイス,,
+83,"N3,名詞",address,アドレス,,
+84,"N3,名詞","hole, pit, deficit, flaw",穴,あな,穴:あな
+85,"N4,名詞",announcer,アナウンサー,,
+86,"N3,名詞",announcement,アナウンス,,
+87,"N5,名詞",you,あなた,,
+88,"N5,名詞",(my) elder brother,兄,あに,兄:あに
+89,"N3,名詞","animation, animated cartoon",アニメ,,
+90,"N5,名詞",(my) elder sister,姉,あね,姉:あね
+91,"N5,感動","say, well, err",あの,,
+92,"N5,指示",that ~,あの,,
+93,"N5,名詞",apartment,アパート,,
+94,"N3,動詞","act violently, rage, run amuck/amok, riot, become unruly, struggle",暴れる,あばれる,暴:あば
+95,"N5,動詞",take a shower,浴びる,あびる,浴:あ
+96,"N5,い形","dangerous, risky, hazardous",危ない,あぶない,危:あぶ
+97,"N4,名詞","oil, fat, lard, suet, tallow, grease",油／脂,あぶら,"油:あぶら,脂:あぶら"
+98,"N4,名詞",Africa,アフリカ,,
+99,"N3,動詞","overflow, flood, be inundated, be crowded, be full of",溢れる,あふれる,溢:あふ
+100,"N5,い形",sweet,甘い,あまい,甘:あま
+101,"N3,名詞",amateur,アマチュア,,
+102,"N3,名詞","storm door, (sliding) storm shutter",雨戸,あまど,"雨:あま,戸:ど"
+103,"N3,動詞","indulge, be indulgent, spoil",甘やかす,あまやかす,甘:あま
+104,"N5,副詞",not so,あまり,,
+105,"N3,動詞","be left (over), surpass, be beyond one's power",余る,あまる,余:あま
+106,"N3,動詞","knit, crochet, braid, weave, compile, edit, plan, arrange",編む,あむ,編:あ
+107,"N5,名詞",rain,雨,あめ,雨:あめ
+108,"N5,名詞",candy,飴,あめ,飴:あめ
+109,"N4,名詞",America,アメリカ,,
+110,"N3,い形","strange, mysterious, suspicious",怪しい,あやしい,怪:あや
+111,"N4,動詞",apologise,謝る,あやまる,謝:あやま
+112,"N5,動詞",wash,洗う,あらう,洗:あら
+113,"N3,名詞","storm, difficulty, trouble",嵐,あらし,嵐:あらし
+114,"N3,名詞","outline, brief/rough outline, summary, synopsis",あらすじ,,
+115,"N3,動詞","compete, contend, struggled, race, fight, dispute",争う,あらそう,争:あらそ
+116,"N3,動詞","renew, change, reform, correct, examine, count",改める,あらためる,改:あらた
+117,"N3,動詞","show, express, signify, represent, symbolize, stand for",表す／現す／著す,あらわす,"表:あらわ,現:あらわ,著:あらわ"
+118,"N3,動詞","appear, come out, show up",現れる,あらわれる,現:あらわ
+119,"N5,動詞","have, hold",有る／在る,ある,"有:あ,在:あ"
+120,"N3,副,接続","or, either...or, perhaps",あるいは,,
+121,"N5,動詞",walk,歩く,あるく,歩:ある
+122,"N4,名詞",alcohol,アルコール,,
+123,"N4,名詞",part-time job,アルバイト,,
+124,"N5,指示",that (not near listener),あれ,,
+125,"N3,動詞","be rough, be stormy",荒れる,あれる,荒:あ
+126,"N3,名詞",allergy,アレルギー,,
+127,"N3,名詞","bubble, foam, head",泡,あわ,泡:あわ
+128,"N3,動詞","put together, add, adjust, set, tune, adapt oneself, fit, check accompaniment, mix",合わせる,あわせる,合:あ
+129,"N3,動詞",be flurried,慌てる,あわてる,慌:あわ
+130,"N3,副（と）,名,な形","unexpectedly, surprisingly",案外,あんがい,"案:あん,外:がい"
+131,"N3,名詞","learn a thing by heart, memorize, commit a thing to memory",暗記（する）,あんき（する）,"暗:あん,記:き"
+132,"N3,名詞",questionnaire,アンケート,,
+133,"N3,名詞","code, cipher",暗証,あんしょう,"暗:あん,証:しょう"
+134,"N4,名詞",feel relieved,安心,あんしん,"安:あん,心:しん"
+135,"N4,な形","safety, safe",安全,あんぜん,"安:あん,全:ぜん"
+136,"N3,名詞","antenna, aerial",アンテナ,,
+137,"N4,指示",like that (indicating a visible example),あんな,,
+138,"N4,名詞","guidance, invitation, guide, notice",案内,あんない,"案:あん,内:ない"
+139,"N4,名詞",the stomach,胃,い,胃:い
+140,"N4,名詞",place,〜位,〜い,位:い
+141,"N5,い形",good,いい／よい,,
+142,"N5,い形",no,いいえ／いえ,,
+143,"N3,名詞","doctor's office, clinic",医院,いいん,"医:い,院:いん"
+144,"N5,動詞","say, tell",言う,いう,言:い
+145,"N5,名詞",house,家,いえ,家:いえ
+146,"N4,名詞",less than,以下,いか,"以:い,下:か"
+147,"N4,名詞","except, besides",以外,いがい,"以:い,外:がい"
+148,"N3,な形,副（と）","unexpected, surprising",意外,いがい,"意:い,外:がい"
+149,"N5,疑問","what, how about",いかが,,
+150,"N4,名詞",medical science,医学,いがく,"医:い,学:がく"
+151,"N3,名詞","breath, breathing",息,いき,息:いき
+152,"N3,名詞",way to,行き,いき／ゆき,行:い／ゆ
+153,"N3,名詞,副詞","suddenly, all of a sudden, abruptly, without (any) warning",いきなり,,
+154,"N3,名詞","living thing/being, (living) creature, life",生き物,いきもの,"生:い,物:もの"
+155,"N4,名詞",U.K. (England),イギリス,,
+156,"N4,動詞",live,生きる,いきる,生:い
+157,"N5,動詞",go,行く,いく／ゆく,行:い／ゆ
+158,"N3,名詞","child care, nursing",育児,いくじ,"育:いく,児:じ"
+159,"N5,疑問",how many,幾つ,いくつ,幾:いく
+160,"N5,疑問",how much,幾ら,いくら,幾:いく
+161,"N4,文法",even though ~,いくら～でも,,
+162,"N5,名詞",pond,池,いけ,池:いけ
+163,"N4,名詞",opinion,意見,いけん,"意:い,見:けん"
+164,"N3,他","after, since, from, after this, from now on, hereafter, in (the) future",以後,いご,"以:い,後:ご"
+165,"N3,名詞","after, since, from",以降,いこう,"以:い,降:こう"
+166,"N3,名詞",equal sign,イコール,,
+167,"N3,名詞","bar, public house, pub",居酒屋,いざかや,"居:い,酒:ざか,屋:や"
+168,"N4,名詞",stone,石,いし,石:いし
+169,"N3,名詞",consciousness,意識,いしき,"意:い,識:しき"
+170,"N4,動詞","torment, bully",いじめる,,
+171,"N5,名詞",doctor,医者,いしゃ,"医:い,者:しゃ"
+172,"N4,名詞",more than,以上,いじょう,"以:い,上:じょう"
+173,"N3,名詞,な形","unusual, extraordinary, abnormal, peculiar, singular, uncommon, remarkable",異常,いじょう,"異:い,常:じょう"
+174,"N3,名詞,な形","ill-natured, spiteful, mean",意地悪,いじわる,"意:い,地:じ,悪:わる"
+175,"N5,名詞",chair(s),椅子,いす,"椅:い,子:す"
+176,"N3,名詞",before,以前,いぜん,"以:い,前:ぜん"
+177,"N5,い形",busy,忙しい,いそがしい,忙:いそが
+178,"N4,動詞","hurry, make haste",急ぐ,いそぐ,急:いそ
+179,"N5,い形",painful,痛い,いたい,痛:いた
+180,"N4,動詞",do (humble form),致す,いたす,致:いた
+181,"N3,名詞,な形","mischief, practical joke, prank",いたずら,,
+182,"N4,動詞",receive (humble form),頂く,いただく,頂:いただ
+183,"N3,名詞","pain, ache, sorrow, distress",痛み,いたみ,痛:いた
+184,"N3,動詞","hurt, prickle, feel prickly, sting, smart, painful, be grieved, feel sad",痛む,いたむ,痛:いた
+185,"N3,動詞",fry,炒める,いためる,炒:いた
+186,"N5,名詞",one,一,いち,一:いち
+187,"N3,名詞","place, position, location",位置,いち,"位:い,置:ち"
+188,"N3,名詞","at one time, in a moment, instantly, once, for a time, for the time being",一時,いちじ,"一:いち,時:じ"
+189,"N3,副詞","further, much",一段と,いちだんと,"一:いち,段:だん"
+190,"N4,副詞",once,一度,いちど,"一:いち,度:ど"
+191,"N3,副詞","at once, at a time, at the same time, simultaneously, at a stretch/sitting, all together",一度に,いちどに,"一:いち,度:ど"
+192,"N5,疑問",when,いつ,,
+193,"N5,名詞","the 5th day (of the month), 5 days",五日,いつか,五日:いつか
+194,"N4,副詞,名詞","sometime, someday",何時か,いつか,何時:いつ
+195,"N3,名詞",the day before yesterday,一昨日,いっさくじつ,"一:いっ,昨:さく,日:じつ"
+196,"N3,名詞","the year before last, two years ago",一昨年,いっさくねん,"一:いっ,昨:さく,年:ねん"
+197,"N3,名詞","lifetime, one's whole life",一生,いっしょう,"一:いっ,生:しょう"
+198,"N4,副詞,な形","very hard, with all one's might",一生懸命,いっしょうけんめい,"一:いっ,生:しょう,懸:けん,命:めい"
+199,"N5,副詞",together,一緒に,いっしょに,"一:いっ,緒:しょ"
+200,"N3,副詞","all together, all in one body, all at once, simultaneously, in unison,m unanimously",一斉（に）,いっせい（に）,"一:いっ,斉:せい"
+201,"N5,名詞",five,五つ,いつつ,五:いつ
+202,"N4,挨拶など",So long (lit. I'm going out and coming back.),いってまいります／いってきます,,
+203,"N4,他","any time/moment, always, at all times",いつでも,,
+204,"N4,挨拶など",So long. (lit. Go and come back.),いってらっしゃい,,
+205,"N3,他",all too soon,いつの間にか,いつのまにか,間:ま
+206,"N4,副詞","full, much, enough, fill, a lot of",いっぱい,,
+207,"N3,名詞,副（に）","general, generally, average, ordinary",一般（的／に／の）,いっぱん（てき／に／の）,"一:いっ,般:ぱん,的:てき"
+208,"N3,名詞,接続","one side/party, the other side/party, just goes on",一方,いっぽう,"一:いっ,方:ぽう"
+209,"N5,副詞",always,いつも,,
+210,"N4,名詞",thread,糸,いと,糸:いと
+211,"N3,名詞","move, transfer",移動,いどう,"移:い,動:どう"
+212,"N3,名詞",(first) cousin,従兄弟／従姉妹,いとこ,"従兄弟:いとこ,従姉妹:いとこ"
+213,"N4,名詞",within (a distance or time),以内,いない,"以:い,内:ない"
+214,"N4,名詞","country side, rural area, hometown",田舎,いなか,田舎:いなか
+215,"N5,名詞",dog,犬,いぬ,犬:いぬ
+216,"N3,名詞",doze,居眠り（する）,いねむる（する）,"居:い,眠:ねむ"
+217,"N3,名詞",life,命,いのち,命:いのち
+218,"N4,動詞",pray,祈る,いのる,祈:いの
+219,"N4,名詞","violation, breach, violate (a law), break (a promise)",違反,いはん,"違:い,反:はん"
+220,"N5,名詞",now,今,いま,今:いま
+221,"N5,名詞",living room,居間,いま,"居:い,間:ま"
+222,"N4,副詞",any minute now,今にも,いまにも,今:いま
+223,"N5,名詞","meaning, mean, imply, signify, intend, infer, stand for",意味,いみ,"意:い,味:み"
+224,"N3,名詞","image, impression",イメージ,,
+225,"N5,名詞",younger sister,妹（さん）,いもうと（さん）,妹:いもうと
+226,"N5,な形",dislike,嫌,いや,嫌:いや
+227,"N4,名詞,感嘆",no,否,いや,否:いや
+228,"N4,動詞","dislike, hate",嫌がる,いやがる,嫌:いや
+229,"N3,",earrings,イヤリング／イアリング,,
+230,"N3,","more and more, at last, really, assuredly",いよいよ,,
+231,"N3,","nervousness, jitter, be/get irritated, become impatient",いらいら,,
