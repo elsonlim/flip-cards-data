@@ -200,7 +200,7 @@ index,tags,english,text,reading,furigana
 199,"N5,副詞",together,一緒に,いっしょに,"一:いっ,緒:しょ"
 200,"N3,副詞","all together, all in one body, all at once, simultaneously, in unison,m unanimously",一斉（に）,いっせい（に）,"一:いっ,斉:せい"
 201,"N5,名詞",five,五つ,いつつ,五:いつ
-202,"N4,挨拶など",So long (lit. I'm going out and coming back.),いってまいります／いってきます,,
+202,"N4,挨拶など",So long. (lit. I'm going out and coming back.),いってまいります／いってきます,,
 203,"N4,他","any time/moment, always, at all times",いつでも,,
 204,"N4,挨拶など",So long. (lit. Go and come back.),いってらっしゃい,,
 205,"N3,他",all too soon,いつの間にか,いつのまにか,間:ま
@@ -214,7 +214,7 @@ index,tags,english,text,reading,furigana
 213,"N4,名詞",within (a distance or time),以内,いない,"以:い,内:ない"
 214,"N4,名詞","country side, rural area, hometown",田舎,いなか,田舎:いなか
 215,"N5,名詞",dog,犬,いぬ,犬:いぬ
-216,"N3,名詞",doze,居眠り（する）,いねむる（する）,"居:い,眠:ねむ"
+216,"N3,名詞","doze (fall into a doze, nod)",居眠り（する）,いねむる（する）,"居:い,眠:ねむ"
 217,"N3,名詞",life,命,いのち,命:いのち
 218,"N4,動詞",pray,祈る,いのる,祈:いの
 219,"N4,名詞","violation, breach, violate (a law), break (a promise)",違反,いはん,"違:い,反:はん"
@@ -227,6 +227,155 @@ index,tags,english,text,reading,furigana
 226,"N5,な形",dislike,嫌,いや,嫌:いや
 227,"N4,名詞,感嘆",no,否,いや,否:いや
 228,"N4,動詞","dislike, hate",嫌がる,いやがる,嫌:いや
-229,"N3,",earrings,イヤリング／イアリング,,
-230,"N3,","more and more, at last, really, assuredly",いよいよ,,
-231,"N3,","nervousness, jitter, be/get irritated, become impatient",いらいら,,
+229,"N3,名詞",earrings,イヤリング／イアリング,,
+230,"N3,副詞","more and more, at last, really, assuredly",いよいよ,,
+231,"N3,副（と）,名詞","nervousness, jitter, be/get irritated, become impatient",いらいら,,
+232,"N5,挨拶など","Welcome!, May I help you?, What can I do for you?",いらっしゃい（ませ）,,
+233,"N4,動詞","be, go, come (honorific form)",いらっしゃる（います）,,
+234,"N5,名詞",entrance,入り口,いりぐち,"入:い,口:ぐち"
+235,"N3,名詞","clothing, clothes",衣料,いりょう,"衣:い,料:りょう"
+236,"N3,名詞","medical treatment/care, health care",医療,いりょう,"医:い,療:りょう"
+237,"N5,動詞","be, exist",居る,いる,居:い
+238,"N5,動詞",required,要る,いる,要:い
+239,"N5,動詞",pour (a cup of coffee),入れる,いれる,入:い
+240,"N5,名詞",colour,色,いろ,色:いろ
+241,"N5,な形",various,色々,いろいろ,"色:いろ,々:いろ"
+242,"N3,名詞","rock, crag",岩,いわ,岩:いわ
+243,"N4,名詞","celebration, a festival, congratulations",祝い,いわい,祝:いわ
+244,"N3,動詞","congratulate, celebrate",祝う,いわう,祝:いわ
+245,"N3,接頭語など","what is called, what you/we/they call, so-called",いわゆる,,
+246,"N3,名詞",a member of ~,〜員,〜いん,員:いん
+247,"N3,名詞",one's seal,印鑑,いんかん,"印:いん,鑑:かん"
+248,"N3,名詞","printing, typography, print",印刷,いんさつ,"印:いん,刷:さつ"
+249,"N3,名詞",impression,印象,いんしょう,"印:いん,象:しょう"
+250,"N3,名詞",instant,インスタント,,
+251,"N5,名詞",internet,インターネット,,
+252,"N3,名詞",interview,インタビュー,,
+253,"N5,名詞",whiskey,ウイスキー,,
+254,"N3,名詞",virus,ウイルス,,
+255,"N3,名詞",wool,ウール,,
+256,"N5,名詞","above, up, on the ~",上,うえ,上:うえ
+257,"N3,名詞",waiter,ウエーター,,
+258,"N4,名詞",waitress,ウエートレス／ウエイトレス,,
+259,"N3,名詞",website,ウエブサイト,,
+260,"N4,動詞",plant,植える,うえる,植:う
+261,"N3,名詞",gargling,うがい,,
+262,"N4,動詞","ask, hear, visit (used when a speaker shows modesty)",伺う,うかがう,伺:うかが
+263,"N3,動詞","float, surface, appear, flash",浮かぶ,うかぶ,浮:う
+264,"N3,動詞",success/pass (in an examination),受かる,うかる,受:う
+265,"N3,動詞","float, suspend, lose touch with, save (money)",浮く,うく,浮:う
+266,"N4,名詞","reception, receptionist(s)",受け付け,うけつけ,"受:う,付:つ"
+267,"N3,動詞","accept, listen to",受け付ける,うけつける,"受:う,付:つ"
+268,"N3,名詞","accept, receipt",受け取り,うけとり,"受:う,取:と"
+269,"N3,動詞","receive, get, accept, take, interpret, view, think",受け取る,うけとる,"受:う,取:と"
+270,"N4,動詞","catch (a ball), receive (education, kindness, permission)",受ける,うける,受:う
+271,"N4,動詞","move, shift, budge, transfer, put into action, operate, run, change, affect, manage",動かす,うごかす,動:うご
+272,"N4,動詞",move,動く,うごく,動:うご
+273,"N3,動詞","lose, miss",失う,うしなう,失:うしな
+274,"N5,名詞","back, behind",後ろ,うしろ,後:うし
+275,"N5,い形",thin,薄い,うすい,薄:うす
+276,"N3,い形","dim, dusky",薄暗い,うすぐらい,"薄:うす,暗:ぐら"
+277,"N3,動詞","thin, dilute, weaken",薄める,うすめる,薄:うす
+278,"N4,名詞","lie, untrue",嘘,うそ,嘘:うそ
+279,"N3,名詞",liar,嘘つき,うそつき,嘘:うそ
+280,"N5,名詞",song(s),歌,うた,歌:うた
+281,"N5,動詞",sing (a song),歌う,うたう,歌:うた
+282,"N3,動詞","doubt, wonder, suspect",疑う,うたがう,疑:うたが
+283,"N5,名詞",home,家,うち,家:うち
+284,"N4,名詞","between, among",内,うち,内:うち
+285,"N3,文法","while..., in the course of..., within...",〜うちに,,
+286,"N4,名詞","the universe, the cosmos, space",宇宙,うちゅう,"宇:う,宙:ちゅう"
+287,"N4,動詞","type, hit, beat",打つ,うつ,打:う
+288,"N3,副（と）","carelessly, absentmindedly, by mistake",うっかり,,
+289,"N4,い形","beautiful, pretty, lovely",美しい,うつくしい,美:うつく
+290,"N4,動詞","take (a picture), copy",写す,うつす,写:うつ
+291,"N4,動詞","move (from, to), change",移る,うつる,移:うつ
+292,"N4,名詞",arm(s),腕,うで,腕:うで
+293,"N3,動詞",nod,うなずく,,
+294,"N3,動詞","growl, groan, moan",うなる,,
+295,"N4,名詞",horse,馬,うま,馬:うま
+296,"N4,い形","delicious, tasty, good at, bright, good, witty",うまい,,
+297,"N3,動詞",be buried,埋まる,うまる,埋:う
+298,"N3,名詞","birth, one's birthplace",生まれ,うまれ,生:う
+299,"N5,動詞",be born,生まれる,うまれる,生:う
+300,"N5,名詞","the sea, the ocean",海,うみ,海:うみ
+301,"N3,動詞","near, produce, give birth / have a baby, bear, deliver",生む／産む,うむ,"生:う,産:う"
+302,"N3,動詞","cover, bury, immerse, sink / bridge, fill in / make up for",埋める,うめる,埋:う
+303,"N4,名詞","reverse side, back (of the building/page)",裏,うら,裏:うら
+304,"N3,動詞","turn over, reverse",裏返す,うらがえす,"裏:うら,返:がえ"
+305,"N3,い形","envy, enviable, be envious of",羨ましい,うらやましい,羨:うらや
+306,"N3,名詞","sold, sellout, out of stock",売り切れ,うりきれ,"売:う,切:き"
+307,"N3,動詞","be sold out, be out of stock",売り切れる,うりきれる,"売:う,切:き"
+308,"N4,名詞","counter (in the store), booth",売り場,うりば,"売:う,場:ば"
+309,"N5,動詞",sell,売る,うる,売:う
+310,"N5,い形","noisy, annoyed",うるさい,,
+311,"N4,い形","glad, happy",嬉しい,うれしい,嬉:うれ
+312,"N3,副（と）",hanging around/about,うろうろ,,
+313,"N5,名詞","coat, jacket",上着,うわぎ,"上:うわ,着:ぎ"
+314,"N3,名詞","gossip, rumour",うわさ,,
+315,"N5,感嘆詞","yes (plain form), yeah, Ah I've got it!",うん,,
+316,"N4,名詞",driver,運転手,うんてんしゅ,"運:うん,転:てん,手:しゅ"
+317,"N4,名詞",drive,運転,うんてん,"運:うん,転:てん"
+318,"N4,名詞",exercise,運動,うんどう,"運:うん,動:どう"
+319,"N5,名詞",picture,絵,え,絵:え
+320,"N5,名詞","air-conditioning, air conditioner",エアコン,,
+321,"N5,名詞",movie,映画,えいが,"映:えい,画:が"
+322,"N5,名詞",movie theatre,映画館,えいがかん,"映:えい,画:が,館:かん"
+323,"N3,名詞","influence, effect",影響,えいきょう,"影:えい,響:きょう"
+324,"N3,名詞","business, trade, operation, do business, be open",営業,えいぎょう,"営:えい,業:ぎょう"
+325,"N5,名詞",English,英語,えいご,"英:えい,語:ご"
+326,"N3,名詞","nutrition, nourishment",栄養,えいよう,"栄:えい,養:よう"
+327,"N5,感動",Yes,ええ,,
+328,"N3,名詞","smiling face, smile",笑顔,えがお,"笑:え,顔:がお"
+329,"N3,動詞","draw, paint, represent, trace, outline, figure, describe, depict, think, image",描く,えがく,描:えが
+330,"N5,名詞",station,駅,えき,駅:えき
+331,"N4,名詞","bait, food, feed, enticement, decoy, lure",餌,えさ,餌:えさ
+332,"N4,名詞",escalator,エスカレーター,,
+333,"N4,名詞",branch,枝,えだ,枝:えだ
+334,"N3,名詞",energy,エネルギー,,
+335,"N3,名詞","paints, colours, pigment, water/oil colours, colouring",絵の具,えのぐ,"絵:え,具:ぐ"
+336,"N3,名詞",apron,エプロン,,
+337,"N4,い形","great, admirable, serious, awful, terrible",偉い,えらい,偉:えら
+338,"N4,動詞",choose,選ぶ,えらぶ,選:えら
+339,"N3,名詞","collar, neck",襟,えり,襟:えり
+340,"N3,動詞","get, acquire, gain, attain, obtain, procure, win, secure",得る,える／うる,得:え／う
+341,"N5,名詞",elevator,エレベーター,,
+342,"N5,名詞",yen value,円,えん,円:えん
+343,"N5,数詞",Japanese Yen,〜円,〜えん,円:えん
+344,"N3,名詞","banquet, feast, dinner (party)",宴会,えんかい,"宴:えん,会:かい"
+345,"N3,名詞","postponement, adjournment (postpone, put off, adjourn)",延期（する）,えんき（する）,"延:えん,期:き"
+346,"N5,名詞",engineer,エンジニア,,
+347,"N4,名詞",engine,エンジン,,
+348,"N3,名詞","(musical) performance, rendering, rendition / play, render",演奏,えんそう,"演:えん,奏:そう"
+349,"N3,名詞","excursion, outing, picnic, hike, school excursion",遠足,えんそく,"遠:えん,足:そく"
+350,"N3,名詞","extension (extend, lengthen)",延長（する）,えんちょう（する）,延長（する）
+351,"N5,名詞",pencil,鉛筆,えんぴつ,"鉛:えん,筆:ぴつ"
+352,"N4,名詞","modesty, refrain, hesitate",遠慮,えんりょ,"遠:えん,慮:りょ"
+353,"N5,接頭語",(polite) e.g. お名前／お金,御〜,お〜／おん〜,御:お／おん
+354,"N3,名詞",nephew,甥,おい,甥:おい
+355,"N3,動詞","run after, chase, pursue, follow",追い掛ける,おいかける,"追:お,掛:か"
+356,"N3,動詞","pass, get ahead of, outstrip, get ahead of, surpass",追い越す,おいこす,"追:お,越:こ"
+357,"N5,い形","delicious, tasty",美味しい,おいしい,"美:お,味:い"
+358,"N3,動詞","drive off, kick out",追い出す,おいだす,"追:お,出:だ"
+359,"N3,動詞","catch up, overtake, attain, reach",追い付く,おいつく,"追:お,付:つ"
+360,"N3,他","at, in, as to",於いて,おいて,於:お
+361,"N4,動詞",come (honorific form),おいでになる,,
+362,"N4,名詞","celebration, congratulations, gift",お祝い,おいわい,祝:いわ
+363,"N3,動詞","run after, chase, pursue",追う,おう,追:お
+364,"N3,名詞","aid, help, support, assist, back up",応援,おうえん,"応:おう,援:えん"
+365,"N3,名詞","crossing (cross, traverse)",横断（する）,おうだん（する）,"横:おう,断:だん"
+366,"N3,名詞","a pedestrian crossing, a crosswalk, a zebra crossing",横断歩道,おうだんほどう,"横:おう,断:だん,歩:ほ,道:どう"
+367,"N3,名詞",make a round trip,往復（する）,おうふく（する）,"往:おう,復:ふく"
+368,"N3,名詞","application, entry, subscription, response, answer",応募,おうぼ,"応:おう,募:ぼ"
+369,"N5,い形","many, much, a lot of",多い,おおい,多:おお
+370,"N3,動詞","cover, hide, conceal, permeate",覆う,おおう,覆:おお
+371,"N5,い形,な〜",big / big ~,大きい／大きな,おおきい／おおきな,"大:おお,大:おお"
+372,"N5,副詞","crowd of people, great/large number of people",大勢,おおぜい,"大:おお,勢:ぜい"
+373,"N3,名詞",order,オーダー,,
+374,"N4,名詞",motorcycle,オートバイ,,
+375,"N4,名詞",overcoat,オーバー,,
+376,"N3,名詞","open, openhearted",オープン,,
+377,"N5,名詞",mother,お母さん,おかあさん,母:かあ
+378,"N4,挨拶など","Welcome home, Welcome back",おかえり（なさい）,,
+379,"N4,名詞","the grace of, thanks to, owe to (by/in virtue of, because of, through)",おかけ（で）,,
+380,"N3,挨拶など","Please sit down, Please be seated, Please take your seats",おかけください,,
